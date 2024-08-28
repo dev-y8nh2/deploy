@@ -18,6 +18,7 @@ header {
     width: 100%;
     z-index: 999;
     opacity: 100%;
+    background: #F2E9D8;
 }
 
 header > nav {
@@ -57,7 +58,7 @@ header > nav {
 }
 .top-section {
     height: 902px;
-    background: #F2E9D8;
+    
     padding-top: 102px;
 }
 .d-flex {
